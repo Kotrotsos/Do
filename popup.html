@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API Key Configuration</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 15px;
+      font-size: 16px;
+    }
+
+    input {
+       width: 70%; 
+    }
+
+  </style>
+</head>
+<body style="width:400px; height:350px">
+
+  <h1>Do. Settings.</h1>
+  <div><label for="api-key">Enter your OpenAI API Key:</label></div>
+  <input type="text" id="api-key" placeholder="API Key">
+  <button id="save">Save</button>
+  <p>If you do not wish to use your own OpenAI API key, then you can use the /do endpoint for free. </p>
+  <p>Just leave the key field empty. In return, on occasion we will respond with something that resembles an ad, you can just ignore this or use the backtick (`) and try again. </p>
+  <p>` (backtick) after text generation undo's everything and returns to your command. You can try again if you want.</p>
+  <p>{text} contains all the text in the textarea or input field. Use it like so: /do summarize the following {text} </p>
+  <script src="popup.js"></script>
+</o>
+</html>
