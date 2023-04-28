@@ -30,7 +30,9 @@ Because I am not made of money, yet. And to secure usage somewhat the endpoint i
 
 ## Disclaimer
 
-This is all a big experiment, to offer this free of charge using a very basic but useful extension. I am not responsible for anything this thing generates, nor is anything stored on any of the servers. The OpenAI API key that you enter is only used on your computer and is not shared. 
+This is all a big experiment, to offer this free of charge using a basic but useful extension. I am not responsible for anything /Do generates, nor is anything stored on any of the servers for secondary use, only for error handling purposes. 
+
+The OpenAI API key that you enter is only stored on your computer and is not shared. 
 
 
 
