@@ -20,17 +20,17 @@ And it translates the things you have in your editor.
 
 ``` /do Summarize the following {text} ```
 
-Will of course, summarize all the text in the editor.
+Will of course then, summarize all the text in the editor.
 
 You can add your own OpenAI API key, or just use our server. It will be using GPT3.5-turbo and is ad supported. But very lightly. To dismiss an ad quickly use ` and regenerate.
 
 ## Rate limiting
 
-Because I am not made of money, yet. And to secure usage somewhat the endpoint is rate limited to 5 req. per minute. So the sixth will generate a 429- Rate limit exceeded. It's a sliding window so if you wait for a bit, it will be good again. 
+Because I am not made of money, yet, but want to put it in as many hands as possible the endpoint is rate limited to 5 requests per minute for now. So the sixth will generate a 429- Rate limit exceeded. It's a sliding window so if you wait for a little bit, it will be good again. 
 
 ## Disclaimer
 
-This is all a big experiment, to offer this free of charge using a basic but useful extension. I am not responsible for anything /Do generates, nor is anything stored on any of the servers for secondary use, only for error handling purposes. 
+This is all a big experiment, to offer this free of charge using a basic but useful extension. I am not responsible for anything /do generates, nor is anything stored on any of the servers for secondary use, only logged for error handling purposes. Nothing will be sold or used for marketing purposes.
 
 The OpenAI API key that you enter is only stored on your computer and is not shared. 
 

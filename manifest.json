@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Do. Fancy and easy AI inside your editor",
-    "version": "1.0",
-    "description": "An AI Content assistant without all the bells and whistles. Use your own OpenAI API key, or for free and ad supported (but very friendly) through the Do. servers.",
+    "name": "Do. Fancy and easy AI inside your browser.",
+    "version": "1.0.1",
+    "description": "An AI Content assistant without all the bells and whistles. Use your own OpenAI API key, or for free and ad supported.",
     "action": {
         "default_popup": "popup.html",
         "default_icon": {

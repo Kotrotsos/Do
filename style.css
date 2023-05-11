@@ -1,29 +1,3 @@
-.xdim-overlay {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgb(220 215 255 / 50%);
-    pointer-events: none;
-    z-index: 9999;
-    filter: blur(542px);
-  }
-  
-  .xdim-overlay > *:not(input:focus):not(textarea:focus):not([contenteditable]:focus):not(.no-dim) {
-    filter: brightness(50%);
-
-}
-
-mark {
-    background-color: white;
-    color: green;
-    font-style: italic;
-
-    padding: 0;
-  }
-
   .adLink {
     font-size: 14px;
   }
