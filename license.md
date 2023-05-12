@@ -2,7 +2,7 @@ LICENSE FOR /Do.
 
 Version 1.x+ 11-MAY-2023
 
-OpenAI grants you permission to use, copy, modify, and distribute /Do. and its accompanying documentation, subject to the following conditions:
+OpenIO grants you permission to use, copy, modify, and distribute /Do. and its accompanying documentation, subject to the following conditions:
 
 1. You may use /Do. for any purpose, including commercial applications, without any compensation to OpenIO.
 
